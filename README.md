@@ -16,3 +16,8 @@ EduSupply is a modern and responsive web platform designed to enhance the online
 4. User-friendly navigation  
 5. Dark toggle mode using localstorage
 
+#Technologies Used
+-  HTML5 & CSS3 – For structured and responsive UI and used semantic tags
+-  JavaScript  – For sliding carousel  and Dark toggle mode
+-  GitHub – For version control and collaboration  
+

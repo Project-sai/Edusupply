@@ -15,6 +15,7 @@ https://project-sai.github.io/Edusupply/
 3. Fast loading & lightweight UI  
 4. User-friendly navigation  
 5. Dark toggle mode using localstorage
+6. used fontawesome icons to show contacts 
 
 #Technologies Used
 -  HTML5 & CSS3 – For structured and responsive UI and used semantic tags

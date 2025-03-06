@@ -4,8 +4,8 @@ EduSupply is a modern and responsive web platform designed to enhance the online
 
 ---
 
-## Live Demo 
-[EduSupply Live Website](#) *(Replace with actual link if deployed)*  
+# Live Demo 
+https://project-sai.github.io/Edusupply/  
 
 ---
 

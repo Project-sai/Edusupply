@@ -262,9 +262,9 @@ body.dark-mode footer {
     .nav-links {
         display: none;
         flex-direction: column;
-        background: #007bff;
+        background: linear-gradient(to right, #4facfe, #00f2fe); 
         position: absolute;
-        top: 60px;
+        top: 40px;
         right: 0;
         width: 100%;
         text-align: center;

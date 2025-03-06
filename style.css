@@ -264,7 +264,7 @@ body.dark-mode footer {
         flex-direction: column;
         background: linear-gradient(to right, #4facfe, #00f2fe); 
         position: absolute;
-        top: 46px
+        top: 46px;
         right: 0;
         width: 100%;
         text-align: center;
